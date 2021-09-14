@@ -3,4 +3,4 @@
 1. Hello git
 2. I'm june
 
-## edited in github
+## edited at github
